@@ -1,0 +1,6 @@
+Album Name
+Artist Name
+00:00:00-Track1
+00:03:41-Track2
+00:08:20-Track3
+00:12:29-Track4
